@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 nice
+=======
+great
+>>>>>>> 1dc63f2b6286fb3a6a5348549c330ef1d35e68b4
